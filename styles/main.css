@@ -1,0 +1,14 @@
+body {
+  background: url("../images/background.png");
+
+}
+#game {
+  height: 630px;
+  width: 850px;
+  margin: 0 auto;
+}
+
+canvas {
+  height: 620px;
+  border: 5px solid white;
+}
